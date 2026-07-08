@@ -149,7 +149,7 @@ if selected == "Dashboard":
         st.markdown("""
         <div class="metric-card">
             <div class="metric-title">Models</div>
-            <div class="metric-value">4</div>
+            <div class="metric-value">6</div>
         </div>
         """, unsafe_allow_html=True)
 
